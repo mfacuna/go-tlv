@@ -1,2 +1,2 @@
 # go-tlv
-Lectura de cadena de caracteres en GO, la cual contiene múltiples campos en el formato TLV.
+Character string reading in GO, which contains multiple fields in the TLV format.
